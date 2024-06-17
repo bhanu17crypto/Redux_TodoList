@@ -1,1 +1,2 @@
-# Todo Redux App
+# Redux Todo List
+
