@@ -1,16 +1,17 @@
 # Redux Todo List
 
 Features
-Dark Mode: Enjoy a modern and visually appealing dark theme for a comfortable viewing experience.
 
-Create: Easily add new tasks to your todo list.
+* Dark Mode: Enjoy a modern and visually appealing dark theme for a comfortable viewing experience.
 
-Read: View all your tasks in a clear and organized manner.
+* Create: Easily add new tasks to your todo list.
 
-Update: Edit task details with ease.
+* Read: View all your tasks in a clear and organized manner.
 
-Delete: Remove tasks that are no longer needed.
+* Update: Edit task details with ease.
 
-State Management: Leveraging Redux for efficient and scalable state management.
+* Delete: Remove tasks that are no longer needed.
 
-Responsive Design: Fully responsive, works seamlessly on both desktop and mobile devices.
+* State Management: Leveraging Redux for efficient and scalable state management.
+
+* Responsive Design: Fully responsive, works seamlessly on both desktop and mobile devices.
